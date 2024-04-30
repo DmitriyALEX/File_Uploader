@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-areas: 
+        "header header"
+        "base directory";
+}
+
+.header {
+    grid-area: header;
+}
+
+.base {
+    grid-area: base;
+}
+
+.directory {
+    grid-area: directory;
+}

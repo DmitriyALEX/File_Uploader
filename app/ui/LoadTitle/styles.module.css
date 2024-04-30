@@ -1,0 +1,10 @@
+.title {
+    grid-area: title;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titleText {
+    border-bottom: 5px dotted rgb(157, 0, 255);
+}

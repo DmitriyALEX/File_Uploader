@@ -1,0 +1,9 @@
+.container {
+    color: rgb(83, 46, 98);
+    font-size: 1rem;
+    margin: 0 20px 0 20px;
+}
+
+.container > p {
+    border-bottom: 2px solid rgb(132, 132, 133);
+}
