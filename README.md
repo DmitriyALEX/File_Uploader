@@ -1,5 +1,4 @@
-You can upload/download images from/to static folder or database
-
+You can upload/download images from/to static folder or database (base64 in MONGODB) 
 
 Getting Started: 
 First, run the development server:
