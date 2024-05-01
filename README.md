@@ -4,7 +4,7 @@ You can upload/download images from/to static folder or database (base64 in Mong
 
 ------------------------------------------------------------
 !NOTICE! 
-You can't upload your own images in deployed version because it used only regular Versel deploying and it isn't support Upload and Store files
+You can't upload your own images in deployed version because this app used only regular Versel deploying and it isn't support Upload and Store files
 BUT you can test fully functional in DEVELOPMENT VERSION 
 ------------------------------------------------------------
 
